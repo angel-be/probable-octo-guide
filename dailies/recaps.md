@@ -44,3 +44,10 @@ App	| Platform	| Null injector
 to see what is affected by the current changes: <br/>
 Npx Nx affected: apps <br/>
 See: ```nx ci```
+
+
+_______________
+### 4th day
+
+* carousel: using ngtemplate as passing it as an Input
+* ControlValueAccessor
