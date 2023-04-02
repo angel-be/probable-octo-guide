@@ -21,6 +21,9 @@ Dev graph: ```nx graph ```
 
 to serve:
 ``` npx nx run marketplace ```
+to serve in production (showed in 5th):
+``` npx nx run marketplace -c=production```
+
 
 ____________
 
@@ -115,3 +118,6 @@ export class MyModule {
   }
 }
 ```
+
+* standalone components
+* storybook
